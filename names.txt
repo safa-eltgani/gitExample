@@ -1,2 +1,3 @@
+role,NetID,LastName,FirstName
 boss,seltigani,Eltgani,Safa
 employee,bjschneider4,Schneider,Breanna
